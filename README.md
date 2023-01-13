@@ -1,3 +1,6 @@
+TOKO 20 A
+TOKO 20 A adalah sebuah aplikasi point of sales berbasis website dan mobiel.
+
 # 2A-Kelompok3
 Nama Kelompok 3 : <br>
 Putri Indah Lestari (362155401014) <br>
@@ -33,12 +36,15 @@ Include conf/extra/httpd-mpm.conf
 List of features ready and TODOs for future development
 * Register
 * Login
-http://pbl-rest-api.masuk.web.id/public/login
 * CRUD (all)
+
+# Demo web
+| url | [http://pbl-rest-api.masuk.web.id/public/login][PlDb] |
+| gmail | [admin@gmail.com][PlGh] |
+| password | [Toko20andalan][PlGd] |
 
 To-do list:
 * Add Rest API (done)
-
 
 ## Status
 Done
