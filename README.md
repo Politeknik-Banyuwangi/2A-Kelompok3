@@ -40,9 +40,9 @@ List of features ready and TODOs for future development
 
 # Demo web
 
-* url [http://pbl-rest-api.masuk.web.id/public/login
-* gmail | [admin@gmail.com
-* password | [Toko20andalan
+* url : http://pbl-rest-api.masuk.web.id/public/login
+* gmail  : admin@gmail.com
+* password : Toko20andalan
 
 To-do list:
 * Add Rest API (done)
